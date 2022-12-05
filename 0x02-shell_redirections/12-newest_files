@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a | wc -l
+ls -Art | tail -n 10
